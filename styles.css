@@ -722,4 +722,7 @@ main .container .right {
   .customize-theme .card {
     width: 92vw;
   }
+  .left .sidebar i .notification-counts {
+    font-size: 6px;
+  }
 }
